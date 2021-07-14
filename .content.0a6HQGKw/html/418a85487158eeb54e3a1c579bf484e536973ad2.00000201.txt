@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:/norob
+Disallow:/home-mortgage
+Disallow:*/AjaxSearchMLT.jsp
+Disallow:*/sponsoredproducts
